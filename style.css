@@ -9,8 +9,6 @@ body {
     background-color: #eefdfa;
     background: linear-gradient(to bottom right, #d0e5e2, #eefdfa);
     min-height: 96vh;
-    /* background-color: #edf2f8; */
-    /* #d0e5e2 */
 }
 
 .container {
@@ -46,7 +44,6 @@ body {
 .form .btn {
     padding: 0.7rem;
     background-color: #1f463e;
-    /* background-color: #313bac; */
     color: #fff;
     cursor: pointer;
     border: none;
@@ -55,7 +52,6 @@ body {
 
 .form .btn:hover {
     background-color: #405e54;
-    /* background-color: #545cb6; */
 }
 
 .lists .todo {
